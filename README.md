@@ -1,6 +1,8 @@
 # cgo-example
 cgo example
 
+reference [Using C Libraries From Go](https://www.thegoldfish.org/2019/04/using-c-libraries-from-go/)
+
 ### BUILD so
 To build the person.so, use 
 ```bash
